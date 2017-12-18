@@ -1,4 +1,4 @@
-url: "http://tranway1.github.io"
+url: "http://Tranway1.github.io"
 markdown: kramdown
 gems:
   - jekyll-redirect-from
