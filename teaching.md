@@ -3,13 +3,16 @@ layout: default
 title: Teaching
 ---
 
-### Teaching
+### Teaching Assistant
 
-* ST370, Probability and Statistics for Engineers  
-[2012 spring](http://www.stat.ncsu.edu/people/zhou/courses/st370/), 2011 fall, 2011 spring, 2010 fall
 
-* ST552, Linear Models and Variance Components  
-[2013 fall](./teaching/st552-2013fall/)
+* CMSC 15200 _Introduction to Computer Science II_ [2017 Spring](https://www.classes.cs.uchicago.edu/archive/2017/spring/15200-1/), University of Chicago
 
-* ST758, Computation for Statistical Research  
-[2014 fall](./teaching/st758-2014fall/), 2013 fall, 2012 fall
+* CMSC 23010 _Parallel Computing_ [2017 Winter](https://piazza.com/uchicago/winter2017/cmsc23010/home), University of Chicago
+
+* CMSC 23000 _Operating Systems_ [2016 Autumn](https://sites.google.com/site/cs230uchicago/2016/contact), University of Chicago
+
+* 712061H _Mining Massive Data_ [2015 Spring](http://www.ucas.ac.cn/site/195?c=91358&amp;t=2), University of Chinese Academy of Sciences
+
+* 711003H _Computer Network_ [2014 Autumn](http://www.ucas.ac.cn/site/195?c=76199&amp;t=2), University of Chinese Academy of Sciences
+
