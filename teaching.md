@@ -13,12 +13,3 @@ title: Teaching
 
 * ST758, Computation for Statistical Research  
 [2014 fall](./teaching/st758-2014fall/), 2013 fall, 2012 fall
-
-* ST790-003, Advanced Statistical Computing  
-[2015 spring](http://hua-zhou.github.io/teaching/st790-2015spr)
-
-* ST810, Advanced Statistical Computing  
-[2013 spring](http://www.stat.ncsu.edu/people/zhou/courses/st810/)
-
-* BIOSTAT M280/BIOMATH M280/STAT 230, Statistical Computing  
-[2017 spring](http://hua-zhou.github.io/teaching/biostatm280-2017spring/), 2016 winter
