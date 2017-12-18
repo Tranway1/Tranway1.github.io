@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d32d539-0f13-4fc8-b01a-1e96758a0b3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/course.html" afterPath="$PROJECT_DIR$/_layouts/course.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post_teaching.html" afterPath="$PROJECT_DIR$/_layouts/post_teaching.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publication.md" afterPath="$PROJECT_DIR$/publication.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/software.md" afterPath="$PROJECT_DIR$/software.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching.md" afterPath="$PROJECT_DIR$/teaching.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,25 +19,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1513623958360" expanded="true" signature="1637:2883" ph="..." />
-                <marker date="1513623958360" expanded="true" signature="1810:2865" ph="..." />
-                <marker date="1513623958360" expanded="true" signature="1817:2019" ph="..." />
-                <marker date="1513623958360" expanded="false" signature="1873:1878" ph="&amp;" />
-                <marker date="1513623958360" expanded="false" signature="2055:2060" ph="&amp;" />
-                <marker date="1513623958360" expanded="false" signature="2340:2345" ph="&amp;" />
-                <marker date="1513623958360" expanded="false" signature="2488:2493" ph="&amp;" />
-                <marker date="1513623958360" expanded="true" signature="2905:3088" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+            <state relative-caret-position="390">
+              <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -62,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -73,6 +60,16 @@
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -159,6 +156,7 @@
         <option value="$PROJECT_DIR$/_layouts/course.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -192,89 +190,6 @@
               <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="cv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="pdf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="softwares" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="softwares" type="462c0819:PsiDirectoryNode" />
-              <item name="mglm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="softwares" type="462c0819:PsiDirectoryNode" />
-              <item name="sparsereg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="softwares" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorreg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="teaching" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="teaching" type="462c0819:PsiDirectoryNode" />
-              <item name="biostat403a-2016winter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="teaching" type="462c0819:PsiDirectoryNode" />
-              <item name="biostatm280-2017spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tranway1.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tranway1.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="teaching" type="462c0819:PsiDirectoryNode" />
-              <item name="biostatm280-2017spring" type="462c0819:PsiDirectoryNode" />
-              <item name="hw" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -468,16 +383,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1513623958360" expanded="true" signature="1637:2883" ph="..." />
-            <marker date="1513623958360" expanded="true" signature="1810:2865" ph="..." />
-            <marker date="1513623958360" expanded="true" signature="1817:2019" ph="..." />
-            <marker date="1513623958360" expanded="false" signature="1873:1878" ph="&amp;" />
-            <marker date="1513623958360" expanded="false" signature="2055:2060" ph="&amp;" />
-            <marker date="1513623958360" expanded="false" signature="2340:2345" ph="&amp;" />
-            <marker date="1513623958360" expanded="false" signature="2488:2493" ph="&amp;" />
-            <marker date="1513623958360" expanded="true" signature="2905:3088" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -491,14 +397,6 @@
           <second_editor>
             <js_state />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,6 +431,22 @@
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
